@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Consulta CEP</string>
+    <string name="zip_code_search_label_text_field">Digite o CEP abaixo:</string>
+    <string name="search">Buscar</string>
+    <string name="digite_o_cep">Digite o CEP</string>
+    <string name="placeholder_CEP">12345-678</string>
+    <string name="buscando_cep">Buscando CEP...</string>
+    <string name="cep_consultado">CEP CONSULTADO</string>
+    <string name="nao_disponivel">Não disponível</string>
+    <string name="cidade">CIDADE</string>
+    <string name="estado">ESTADO</string>
+    <string name="logradouro">LOGRADOURO</string>
+    <string name="bairro">BAIRRO</string>
+    <string name="complemento">COMPLEMENTO</string>
+    <string name="codigo_ibge">CÓDIGO IBGE</string>
+    <string name="ddd">DDD</string>
+    <string name="adicionar_aos_favoritos">Adicionar aos favoritos</string>
+    <string name="buscar">Buscar</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="nenhum_favorito_encontrado">Nenhum favorito encontrado.</string>
+</resources>
